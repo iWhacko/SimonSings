@@ -1,0 +1,9 @@
+v1.2 (2010-08-01):
+- Open source version
+
+v1.1 (2009-05-19): 
+- Improved sound playback
+- Now also shows the note you are currently singing, even if it is wrong
+
+v1.0 (2009-04-26):
+- First version
